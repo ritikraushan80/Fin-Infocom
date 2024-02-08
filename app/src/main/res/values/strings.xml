@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FinInfocom Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login">Login</string>
+    <string name="login_as_different_user">Login as different user</string>
+    <string name="app_usage_policy_will_be_as_per_fieldez_s">App usage policy will be as per FieldEZ\'s</string>
+    <string name="terms_of_services">Terms of services</string>
+    <string name="service">Service</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="user">User</string>
+    <string name="log_out">Log Out</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_age">Sort By Age</string>
+    <string name="sort_by_city">Sort By City</string>
+    <string name="logout">Logout</string>
+
+</resources>
